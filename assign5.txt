@@ -1,0 +1,11 @@
+Microsoft Windows [Version 10.0.19044.1586]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\abhin>curl --data "userId=1&title=delectus aut autem&completed=false&id=1" https://jsonplaceholder.typicode.com/todos
+{
+  "userId": "1",
+  "title": "delectus aut autem",
+  "completed": "false",
+  "id": 201
+}
+C:\Users\abhin>
